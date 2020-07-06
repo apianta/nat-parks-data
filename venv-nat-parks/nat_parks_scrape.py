@@ -12,6 +12,7 @@ tables = soup.find_all('table')[1]
 rows = tables.find_all('tr')
 # print(rows)
 
+
 def get_parks():
     park_list = []
     for table in tables:
@@ -20,7 +21,7 @@ def get_parks():
         for th in ths:
             parks = th.find('a').string
             print(parks)
-            
+
 
 def get_visitors():
 
