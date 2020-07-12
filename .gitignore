@@ -22,7 +22,6 @@ var/
 # virtualenv
 venv/
 env-nat-parks/
-
 # vscode
 .vscode/*
 !.vscode/settings.json
@@ -36,3 +35,8 @@ env-nat-parks/
 venv-nat-parks/nat-scrapy.py
 # Spyder project settings
 .spyderproject
+# venv
+env-nat-parks
+# misc
+.html
+settings.json
