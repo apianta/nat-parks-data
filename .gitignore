@@ -32,11 +32,11 @@ env-nat-parks/
 
 # Local History for Visual Studio Code
 .history/
-venv-nat-parks/nat-scrapy.py
+
 # Spyder project settings
 .spyderproject
 # venv
-env-nat-parks
+venv-nps-data/
 # misc
 .html
 settings.json
