@@ -40,3 +40,4 @@ venv-nps-data/
 # misc
 .html
 settings.json
+debug.log
